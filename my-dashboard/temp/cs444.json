@@ -1,0 +1,225 @@
+[
+    {
+        "course_id": "CS444",
+        "title": "Quiz" | "MP1 released" | "MP1 due" | "MP2 released" | "MP2 due" | "Project proposal due" | "Midterm exam" | "Final exam",
+        "type": "Quiz" | "MP" | "Project" | "Exam",
+        "link": "http://slazebni.cs.illinois.edu",
+        
+    }
+  {
+    "course_id": "CS444",
+    "title": "Overview:This course will provide an elementary hands-on introduction to neural networks and deep learning. Topics covered will include: linear classifiers; multi-layer neural networks; back-propagation and stochastic gradient descent; convolutional neural networks and their applications to computer vision tasks like object detection and dense image labeling; generative modeling (diffusion models); sequence modeling with recurrent networks and transformers; large language models and vision-language models. Coursework will consist of programming assignments in Python (primarily PyTorch) and CBTF exams. Those registered for 4 credit hours will have to complete a project.Instructor:Svetlana Lazebnik(slazebni -at- illinois.edu)Lectures:T TH 11AM-12:15PM, 2079 Natural History BuildingLectures will be recorded for later asynchronous viewing. Access to recordings requires illinois.edu login.",
+    "type": "Assignment",
+    "raw_date": "Spring 2026 CS444/ECE494 Deep Learning for Computer VisionQuick links:schedule,policies,lecture videos,assignment submission and grades,announcements and discussion(code 3748)J. Cornell, Cockatoo with Watch FacesOverview:This course will provide an elementary hands-on introduction to neural networks and deep learning. Topics covered will include: linear classifiers; multi-layer neural networks; back-propagation and stochastic gradient descent; convolutional neural networks and their applications to computer vision tasks like object detection and dense image labeling; generative modeling (diffusion models); sequence modeling with recurrent networks and transformers; large language models and vision-language models. Coursework will consist of programming assignments in Python (primarily PyTorch) and CBTF exams. Those registered for 4 credit hours will have to complete a project.Instructor:Svetlana Lazebnik(slazebni -at- illinois.edu)Lectures:T TH 11AM-12:15PM, 2079 Natural History BuildingLectures will be recorded for later asynchronous viewing. Access to recordings requires illinois.edu login.TAs:Kulbir Ahluwalia (ksa5), Ozgur Kara (ozgurk2), Jay Mahajan (jaym2), Kiet Nguyen (kietan2), Jason Vega (javega3)Instructor and TA office hours:See Campuswire (and always check announcements for any last-minute changes)Contacting the course staff:For emergencies and special circumstances, please email the instructor. For questions about lectures and assignments, use the discussion board. For questions about your scores (including regrade requests), email the responsible TAs.Prerequisites:Multi-variable calculus, linear algebra, data structures (CS 225 or similar), statistics (CS 361, STAT 400, or similar).Grading scheme:3 credits4 creditsProgramming assignments60%45%Exams40%30%Project25%Programming assignments:Can optionally be done in pairs -- but seeimportant disclaimers on group work!Will be using PyTorch and Google ColabExams:There will be two 50-minute CBTF midterm exams and one 1 hour 50 minute final. The midterms will be non-cumulative and the final will be cumulative. All exams will consist of multiple choice questions and will be closed book, closed notes.Project:for 4-credit studentsParticipation extra credit:up to 3% bonus on the cumulative course score will be offered for active in-class and discussion board participationBe sure to read the course policies!Schedule (tentative)DateTopicAssignmentsJanuary 20Introduction:PPTX,PDFSelf-study:Python/numpy tutorialJanuary 22Introduction cont. (slides above)January 27Linear classifiers:PPTX,PDFJanuary 29Linear classifiers cont.February 3Linear classifiers cont.:PPTX,PDFFebruary 5No classAssignment 1February 10Multi-class classification:PPTX,PDFFebruary 12Multi-layer networks:PPTX,PDFFebruary 17BackpropagationFebruary 19Backpropagation cont.Assignment 1 due February 23February 24Convolutional networksAssignment 2February 26Convolutional architecturesMarch 3Exam reviewCBTF Exam 1:March 4-6March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": "http://slazebni.cs.illinois.edu",
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "February 12Multi-layer networks:PPTX,PDFFebruary 17BackpropagationFebruary 19Backpropagation cont.Assignment 1 due February 23February 24Convolutional networksAssignment 2February 26Convolutional architecturesMarch 3Exam reviewCBTF Exam 1:March 4-6March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Project",
+    "raw_date": "February 10Multi-class classification:PPTX,PDFFebruary 12Multi-layer networks:PPTX,PDFFebruary 17BackpropagationFebruary 19Backpropagation cont.Assignment 1 due February 23February 24Convolutional networksAssignment 2February 26Convolutional architecturesMarch 3Exam reviewCBTF Exam 1:March 4-6March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": "https://slazebni.cs.illinois.edu/spring26/lec05_multilayer.pptx",
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "February 17BackpropagationFebruary 19Backpropagation cont.Assignment 1 due February 23February 24Convolutional networksAssignment 2February 26Convolutional architecturesMarch 3Exam reviewCBTF Exam 1:March 4-6March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Project",
+    "raw_date": "February 12Multi-layer networks:PPTX,PDFFebruary 17BackpropagationFebruary 19Backpropagation cont.Assignment 1 due February 23February 24Convolutional networksAssignment 2February 26Convolutional architecturesMarch 3Exam reviewCBTF Exam 1:March 4-6March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": "https://slazebni.cs.illinois.edu/spring26/project.html",
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "February 19Backpropagation cont.Assignment 1 due February 23February 24Convolutional networksAssignment 2February 26Convolutional architecturesMarch 3Exam reviewCBTF Exam 1:March 4-6March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Project",
+    "raw_date": "February 17BackpropagationFebruary 19Backpropagation cont.Assignment 1 due February 23February 24Convolutional networksAssignment 2February 26Convolutional architecturesMarch 3Exam reviewCBTF Exam 1:March 4-6March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": "https://slazebni.cs.illinois.edu/spring26/project.html",
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "Assignment 1 due February 23February 24Convolutional networksAssignment 2February 26Convolutional architecturesMarch 3Exam reviewCBTF Exam 1:March 4-6March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Project",
+    "raw_date": "February 19Backpropagation cont.Assignment 1 due February 23February 24Convolutional networksAssignment 2February 26Convolutional architecturesMarch 3Exam reviewCBTF Exam 1:March 4-6March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": "https://slazebni.cs.illinois.edu/spring26/project.html",
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "Assignment 2February 26Convolutional architecturesMarch 3Exam reviewCBTF Exam 1:March 4-6March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Project",
+    "raw_date": "February 24Convolutional networksAssignment 2February 26Convolutional architecturesMarch 3Exam reviewCBTF Exam 1:March 4-6March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": "https://slazebni.cs.illinois.edu/spring26/project.html",
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "March 3Exam reviewCBTF Exam 1:March 4-6March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Project",
+    "raw_date": "February 26Convolutional architecturesMarch 3Exam reviewCBTF Exam 1:March 4-6March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": "https://slazebni.cs.illinois.edu/spring26/project.html",
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "CBTF Exam 1:March 4-6March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Project",
+    "raw_date": "March 3Exam reviewCBTF Exam 1:March 4-6March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": "https://slazebni.cs.illinois.edu/spring26/project.html",
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Project",
+    "raw_date": "March 5Convolutional architectures cont.March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": "https://slazebni.cs.illinois.edu/spring26/project.html",
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "March 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Project",
+    "raw_date": "March 10Dense predictionMarch 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": "https://slazebni.cs.illinois.edu/spring26/project.html",
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "Assignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Project",
+    "raw_date": "March 12Training in detailAssignment 3Project proposalsdue March 13March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": "https://slazebni.cs.illinois.edu/spring26/project.html",
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "March 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Exam",
+    "raw_date": "March 24Object detectionMarch 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": null,
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Exam",
+    "raw_date": "March 26Object detection cont.March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": null,
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "April 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Exam",
+    "raw_date": "March 31Recurrent networksApril 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": null,
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "Assignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Exam",
+    "raw_date": "April 2Attention modelsAssignment 4April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": null,
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "CBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Exam",
+    "raw_date": "April 7Exam reviewCBTF Exam 2:April 8-10April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": null,
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "April 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Exam",
+    "raw_date": "April 9TransformersApril 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": null,
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Exam",
+    "raw_date": "April 14Transformers cont.April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": null,
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "April 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Exam",
+    "raw_date": "April 16Vision transformersApril 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": null,
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "Assignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Exam",
+    "raw_date": "April 21Diffusion modelsAssignment 5April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": null,
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Exam",
+    "raw_date": "April 23Diffusion models cont.April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": null,
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Exam",
+    "raw_date": "April 28Diffusion models cont.April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": null,
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "May 5Final exam reviewCBTF Final Exam:May 7-15",
+    "type": "Exam",
+    "raw_date": "April 30Large vision-language modelsMay 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": null,
+    "is_completed": false
+  },
+  {
+    "course_id": "CS444",
+    "title": "CBTF Final Exam:May 7-15",
+    "type": "Exam",
+    "raw_date": "May 5Final exam reviewCBTF Final Exam:May 7-15",
+    "due_date": null,
+    "link": null,
+    "is_completed": false
+  }
+]
